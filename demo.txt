@@ -1,1 +1,1 @@
-Version from main branch 
+resolved echo Resolved version combining main and conflict-branch 
